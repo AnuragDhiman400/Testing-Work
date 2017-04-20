@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\adhiman6855\Desktop\Assignment_4\Assignment4.Test\bin\Debug\Assignment4.Test.dll" total="8" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-04-20" time="14:15:48">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="2A409-D02" user="adhiman6855" user-domain="CONESTOGAC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\adhiman6855\Desktop\Assignment_4\Assignment4.Test\bin\Debug\Assignment4.Test.dll" executed="True" result="Success" success="True" time="0.066" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Assignment_4" executed="True" result="Success" success="True" time="0.059" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="TriangleSolveTest" executed="True" result="Success" success="True" time="0.058" asserts="0">
+            <results>
+              <test-case name="Assignment_4.TriangleSolveTest.AllZeroCheck" executed="True" result="Success" success="True" time="0.033" asserts="1" />
+              <test-case name="Assignment_4.TriangleSolveTest.equilateralCheck" executed="True" result="Success" success="True" time="0.006" asserts="1" />
+              <test-case name="Assignment_4.TriangleSolveTest.isosclesCheck" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="Assignment_4.TriangleSolveTest.negativeCheck" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="Assignment_4.TriangleSolveTest.positiveCheck" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="Assignment_4.TriangleSolveTest.scaleneCheck" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="Assignment_4.TriangleSolveTest.triangleCheck" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="Assignment_4.TriangleSolveTest.zeroCheck" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
